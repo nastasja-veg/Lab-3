@@ -4,7 +4,7 @@
     color:rgb(211, 185, 222);
 }
 body{
-    background-image: url(tablebg2.jpg);
+    background-image: url("../images/tablebg2.jpg");
 }
 caption{
     text-align: center;
@@ -33,4 +33,5 @@ tr{
 }
 .thirdrow{
     background-color: rgb(133, 116, 167);
+
 }
